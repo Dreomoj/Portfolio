@@ -105,6 +105,7 @@ main{
     font-style: italic;
     font-size: 30px;
     color: tomato;
+    padding-top: 20px;
 }
 .project-container{
     padding: 50px;
@@ -178,4 +179,10 @@ textarea{
     align-items: center;
     justify-content: center;
     flex-direction: column;
+}
+footer{
+    height: 20px;
+    background-color: lightgray;
+    padding: 20px;
+    text-align: center;
 }
